@@ -1,0 +1,17 @@
+{
+  "title": "地面开挖联办中的地下探测资料调取",
+  "sources": [
+    "/permit/road.json",
+    "/owners/catalog.csv",
+    "/owners/anchors.json",
+    "/reports/q4.json",
+    "/reports/q5.json",
+    "/reports/q6.json",
+    "/reports/q7.json",
+    "/crew/ledger.json",
+    "/reports/q8.json",
+    "/reports/q9.json"
+  ],
+  "forms": [],
+  "range_sources": []
+}

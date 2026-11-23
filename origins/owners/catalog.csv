@@ -1,0 +1,7 @@
+id,owner,version,street,start,end,side,depth,report
+Q4,水务,2026a,杉林街,10,40,R,1.2,/reports/q4.json
+Q5,水务,2026b,杉林街,10,35,R,1.8,/reports/q5.json
+Q6,燃气,2026b,杉林街,9,31,L,0.9,/reports/q6.json
+Q7,燃气,2026b,杉林街,10,50,R,1.1,/reports/q7.json
+Q8,燃气,2026b,杉林街,7,25,R,2.1,/reports/q8.json
+Q9,燃气,2026b,杉林街,22,42,R,2.1,/reports/q9.json
